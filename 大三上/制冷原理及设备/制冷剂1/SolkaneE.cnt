@@ -1,0 +1,58 @@
+:Base SolkaneE>main
+:Title Solkane - Help
+1 About Solkane
+2 About SOLKANE=A1000
+2 Language=A1020
+2 Operating the program=A1030
+2 Controlling program sequence/menus=A1040
+2 Choosing refrigerant=A1050
+2 Contact=A0100
+1 Calculating substance data
+2 What can be calcuated?=A2010
+2 Choosing state variables=A2020
+2 Calculating individual points
+3 Calculating individual point=A2030
+3 Wet vapour range (saturation conditions)=A2040
+3 Superheated range (gaseous state)=A2050
+3 Liquid range=A2060
+2 Calculating thermodynamic properties
+3 Calculating thermodynamic properties=A2070
+3 Wet vapour range (saturation conditions)=A2080
+3 Superheated range (gaseous state)=A2090
+3 Liquid range=A2100
+3 Exporting data=A2110
+1 Diagrams
+2 Displaying state diagrams=A3000
+2 Toolbar=A3010
+2 Diagram view p,h- and T,s-diagram=A3020
+2 Showing cycle process steps=A3030
+2 Formatting diagrams=A3100
+1 Cycle calculation
+2 Single-stage process=A4010
+2 Single-stage process with internal heat exchanger=A4020
+2 Two-stage process with intermediate external cooling=A4030
+2 Two-stage process with economiser=A4040
+2 Two-stage process with intermediate injection=A4050
+2 Pressure loss and temperature glides=A4060
+1 Pipe Sizing
+2 About Pipe Sizing=A5100
+2 Operating the pipe sizing tool=A5200
+2 Suction line=A5210
+2 Discharge line=A5220
+2 Liquid line=A5230
+2 Suction riser=A5240
+2 Hot-gas riser=A5250
+1 Refrigerants
+2 Solkane refrigerants=E0001C@SolkaneD.hlp>main
+2 Physical data=E0002>main
+2 Safety information=E0003
+2 Environmental data=E0004
+2 Stability=E0005
+2 Reaction with metals=E0006
+2 Elastomers=E0007
+2 Lubricants=E0008
+2 Refrigerants and water=E0009
+2 Electrical properties=E0010
+2 Alternate refrigerants=E0011
+2 Transport and packaging=E0012
+2 Claim for conformance=E0013

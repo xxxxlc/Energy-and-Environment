@@ -1,0 +1,58 @@
+:Base SolkaneD
+:Title Solkane - Hilfe
+1 Über Solkane
+2 Über SOLKANE=A1000
+2 Sprache=A1020
+2 Programmbedienung=A1030
+2 Programmablaufsteuerung/Menüs=A1040
+2 Kältemittelauswahl=A1050
+2 Kontakt=A0100
+1 Stoffdatenberechnungen
+2 Was kann berechnet werden?=A2010
+2 Zustandsgrößen auswählen=A2020
+2 Einzelpunkt berechnen
+3 Einzelpunkt berechnen=A2030
+3 Naßdampfgebiet (Sättigungsbedingungen)=A2040
+3 Überhitztes Gebiet (Gasphase)=A2050
+3 Flüssigkeitsgebiet=A2060
+2 Dampftafel berechnen
+3 Dampftafel berechnen=A2070
+3 Naßdampfgebiet (Sättigungsbedingungen)=A2080
+3 Überhitztes Gebiet (Gasphase)=A2090
+3 Flüssigkeitsgebiet=A2100
+3 Daten exportieren=A2110
+1 Diagramme
+2 Zustandsdiagramme zeigen=A3000
+2 Toolbar=A3010
+2 Diagrammansicht p,h- und T,s-Diagramm=A3020
+2 Kreisprozeßverläufe darstellen=A3030
+2 Diagramme formatieren=A3100
+1 Kreisprozesse
+2 Einstufiger Prozeß=A4010
+2 Einstufiger Prozeß mit innerem Wärmeübertrager=A4020
+2 Zweistufiger Prozeß mit äußerer Zwischenkühlung=A4030
+2 Zweistufiger Prozeß mit Economiser=A4040
+2 Zweistufiger Prozeß mit Zwischeneinspritzung=A4050
+2 Druckverlust und ´Temperaturgleiten´=A4060
+1 Rohrdimensionierung
+2 Einführung=A5100
+2 Ausführung von Rohrdimensionierungen=A5200
+2 Sauggasleitung =A5210
+2 Druckgasleitung=A5220
+2 Flüssigkeitsleitung=A5230
+2 Sauggas-Steigleitung=A5240
+2 Druckgas-Steigleitung=A5250
+1 Kältemittel
+2 Die Solkane-Kältemittel=E0001C@SolkaneD.hlp>main
+2 Physikalische Daten=E0002>main
+2 Sicherheitsdaten=E0003
+2 Umweltdaten=E0004
+2 Stabilität=E0005
+2 Verhalten gegenüber Metallen=E0006
+2 Elastomere=E0007
+2 Schmiermittel=E0008
+2 Kältemittel und Wasser=E0009
+2 Elektrische Eigenschaften=E0010
+2 Ersatzkältemittel=E0011
+2 Transport und Verpackung=E0012
+2 Konformitätserklärung=E0013

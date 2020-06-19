@@ -1,0 +1,107 @@
+:Base SolkaneS>main
+:Title Solkane - Help
+1 Acerca de SOLKANE 5
+2 Acerca de SOLKANE 5 =A1000
+2 Exigences du système=A1010
+2 Idioma=A1020
+2 Utilización del programa=A1030
+2 Menús y botones=A1040
+2 Elección de refrigerante=A1050
+2 Contacto=A0100
+1 Cálculo datos sustancias
+2 ¿Qué se puede calcular?=A2010
+2 Elección variables estados=A2020
+2 Cálculo puntos individuales
+3 Cálculo puntos individuales=A2030
+3 Rango vapor húmedo=A2040
+3 Rango sobrecalentamiento=A2050
+3 Rango líquido=A2060
+2 Cálculo propiedades termodinámicas
+3 Cálculo propiedades termodinámicas=A2070
+3 Rango vapor húmedo=A2080
+3 Rango sobrecalentamiento=A2090
+3 Rango líquido=A2100
+3 Exportación datos=A2110
+1 Diagramas de estado
+2 Diagramas de estado =A3000
+2 Barra de herramientas=A3010
+2 Vista de diagrama: p,h- y T,s-diagramas=A3020
+2 Muestra de recorridos de ciclo=A3030
+2 Impresión diagramas=A3040
+2 Formateado diagramas=A3100
+3 Formateado ejes=A3110
+3 Ajuste propiedades de línea=A3111
+3 Cambio color de línea=A3121
+3 Cambio grosor línea=A3122
+3 Cambio estilo de línea=A3123
+3 Mostrar u ocultar líneas=A3124
+3 Posicionamiento descripciones línea=A3125
+2 Cambio fuente =A3130
+2 Establecimiento bordes diagrama=A3140
+2 Cambio área diagrama=A3150
+2 Aumentar área diagrama (Zoom+ ) =A3160
+2 Reducir área diagrama (Zoom- ) =A3161
+1 Ciclos
+2 Proceso de fase simple=A4010
+2 Proceso de fase simple con portador de calor interno=A4020
+2 Proceso de dos fases con refrigeración intermedia externa=A4030
+2 Proceso de dos fases con Economiser=A4040
+2 Proceso de dos fases con inyección intermedia=A4050
+2 Pérdida de presión y 'deslizamientos de temperatura'=A4060
+1 Medición de tuberías
+2 Sobre la medición de tuberías=A5100
+2 Uso de la herramienta de medición=A5200
+2 Línea de succión=A5210
+2 Línea de descarga=A5220
+2 Línea de líquidos=A5230
+2 Elevador de succión=A5240
+2 Elevado de gas caliente=A5250
+1 Refrigerantes
+2 Refrigerantes Solkane®=E0001C@SolkaneS.hlp
+3 Solkane® 22=E0601
+3 Solkane® 23=E0701
+3 Solkane® 123=E0501
+3 Solkane® 134a=E0101
+3 Solkane® 227=E1701
+3 Solkane® 404A=E1501
+3 Solkane® 407C=E1601
+3 Solkane® 410A=E0301
+3 Solkane® 507=E0201
+3 Solkane® 32=E1201
+3 Solkane® 125=E1101
+3 Solkane® 143a=E0401
+3 Solkane® 152a=E1301
+3 Solkane® 124=E2101
+3 Solkane® 365mfc=E2201
+2 Datos físicos=E0002
+3 Solkane® 22=E0602
+3 Solkane® 23=E0702
+3 Solkane® 123=E0502
+3 Solkane® 134a=E0102
+3 Solkane® 227=E1702
+3 Solkane® 404A=E1502
+3 Solkane® 407C=E1602
+3 Solkane® 410A=E0302
+3 Solkane® 507=E0202
+3 Solkane® 32=E1202
+3 Solkane® 125=E1102
+3 Solkane® 143a=E0402
+3 Solkane® 152a=E1302
+3 Solkane® 124=E2102
+3 Solkane® 365mfc=E2202
+2 Información de seguridad=E0003
+2 Datos ambientales=E0004
+2 Estabilidad=E0005
+2 Rección con metales=E0006
+2 Elastómeros=E0007
+2 Lubricantes=E0008
+2 Refrigerantes y agua=E0009
+2 Propiedades eléctricas=E0010
+2 Refrigerantes alternativos=E0011
+3 Refrigerante alternativo para R11=E0511
+3 Refrigerante alternativo para R12=E0111
+3 Refrigerante alternativo para R13 y R13B1=E0711
+3 Refrigerante alternativo para R22=E1611
+3 Refrigerante alternativo para R502=E1511
+2 Transporte y embalaje=E0012
+2 Reivindicación de conformidad=E0013
